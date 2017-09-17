@@ -1,6 +1,6 @@
 # British National Grid (BNG)
 
-This repository will contain our python tools for working with British National Grid (BNG) grid references.
+This repository will contain python tools for working with British National Grid (BNG) grid references.
 
 For now, here is a summary of the size and area of [grid references](https://en.wikipedia.org/wiki/Ordnance_Survey_National_Grid#Datum_shift_between_OSGB_36_and_ED_50) at various precisions.
 
